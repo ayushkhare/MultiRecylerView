@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoMultiViewRecycler</string>
+    <string name="first_type">FIRST TYPE</string>
+    <string name="second_type">SECOND TYPE</string>
+    <string name="third_type">THIRD TYPE</string>
+    <string name="forth_ype">FORTH TYPE</string>
+</resources>
